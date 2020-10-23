@@ -1,0 +1,4 @@
+Seg:48
+Min:51
+Hor:0
+Dia:0

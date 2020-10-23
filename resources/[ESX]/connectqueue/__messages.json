@@ -1,0 +1,14 @@
+﻿{
+  "Gathering": "⏳ Collecte des informations sur la file d'attente",
+  "License": "⏳ Une licence est requise",
+  "Steam": "⏳ Steam est requis",
+  "Banned": "⏳ You are banned",
+  "Whitelist": "⏳ You are not whitelisted",
+  "Queue": "⏳ Vous êtes dans la file d'attente",
+  "PriorityQueue": "⏳ Vous êtes dans la file d'attente prioritaire",
+  "Canceled": "⏳ Annulé de la file d'attente",
+  "Error": "⏳ Erreur",
+  "Timeout": "⏳ Time-Out",
+  "QueueCount": "[Queue: {0}]",
+  "Symbols": "⏳ Aucun symbole ou espace consécutif n'est autorisé dans votre nom"
+}

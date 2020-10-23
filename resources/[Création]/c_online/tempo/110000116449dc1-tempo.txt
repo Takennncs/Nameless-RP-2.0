@@ -1,0 +1,4 @@
+Seg:9
+Min:3
+Hor:0
+Dia:0
