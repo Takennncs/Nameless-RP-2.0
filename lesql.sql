@@ -1530,7 +1530,7 @@ CREATE TABLE `jobs` (
 -- Déchargement des données de la table `jobs`
 --
 
-INSERT INTO `jobs` (name`, `label`, `whitelisted`) VALUES
+INSERT INTO `jobs` (`name`, `label`, `whitelisted`) VALUES
 ('abatteur', 'Abatteur', 1),
 ('ambulance', 'EMS', 1),
 ('avocat', 'Avocat', 1),
