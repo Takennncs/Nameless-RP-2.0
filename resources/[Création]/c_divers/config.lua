@@ -17,7 +17,7 @@ Config.EnableInventory  = true
 Config.EnableWeapons = true
 
 Cfg.radius = 5.0
-Config.webhook 					  = "https://discordapp.com/api/webhooks/734562528864108574/F2yQCxDSCKGnsWufbbE_W2-lKkt1Mlh96NPAl25xYVAc6I-kAiERju_r9_tDeF7J_kNx" --webhook 
+Config.webhook 					  = "METTRE WEBHOOK DU SALON DISCORD" --webhook 
 
 Config.Percentage		= 50
 Config.MarkerSizeBlan   = {x = 3.0, y = 3.0, z = 3.0}
