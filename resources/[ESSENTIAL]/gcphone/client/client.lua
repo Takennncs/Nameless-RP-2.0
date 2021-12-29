@@ -36,6 +36,10 @@ Citizen.CreateThread(function()
   end
 end)
 
+Citizen.CreateThread(function()
+	TriggerServerEvent('crew:onPlayerLoaded', GetPlayerServerId(PlayerId()))
+end)
+
 RegisterNUICallback('getAccessToken', function(data, cb)
   while ESX == nil do
     Citizen.Wait(0)
